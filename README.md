@@ -1,4 +1,6 @@
-# digispark-script-injector
+# Digispark-script-injector
+
+## FOR EDUCATIONNAL PURPOSES ONLY
 
 These are templates and examples scripts to inject some batch code in Windows with a "Digispark ATTINY85" bad usb.
 What I mean by injecting some code is making it possible to run some preprogrammed batch code after removing the bad usb.
