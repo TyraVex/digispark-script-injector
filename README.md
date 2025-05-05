@@ -1,5 +1,7 @@
 # Digispark-script-injector
 
+![Editor 10](https://user-images.githubusercontent.com/34800546/141596904-590df41d-a2c3-4de2-94d0-67695db2f580.gif)
+
 ## FOR EDUCATIONNAL PURPOSES ONLY
 
 These are templates and examples scripts to inject some batch code in Windows with a "Digispark ATTINY85" bad usb.
@@ -15,8 +17,3 @@ Info :
 
 Todo :
 - Make it compatible with English keyboards and maybe more languages
-
-Demo :
-
-
-![Editor 10](https://user-images.githubusercontent.com/34800546/141596904-590df41d-a2c3-4de2-94d0-67695db2f580.gif)
